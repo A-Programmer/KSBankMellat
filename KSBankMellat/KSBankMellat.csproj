@@ -5,6 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Kamran Sadin</Authors>
     <Company>Sadin</Company>
+    <PackageProjectUrl>https://github.com/A-Programmer/KSBankMellat</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
