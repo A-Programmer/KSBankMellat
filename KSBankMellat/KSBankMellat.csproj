@@ -6,6 +6,11 @@
     <Authors>Kamran Sadin</Authors>
     <Company>Sadin</Company>
     <PackageProjectUrl>https://github.com/A-Programmer/KSBankMellat</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/A-Programmer/KSBankMellat/master/KSBankMellat/Icon.jpg</PackageIconUrl>
+    <RepositoryUrl>https://github.com/A-Programmer/KSBankMellat</RepositoryUrl>
+    <PackageTags>Bank Mellat</PackageTags>
+    <Copyright>Copyright © Sadin 2018</Copyright>
+    <Description>Bank Mellat SOAP Service for DotNet Core</Description>
   </PropertyGroup>
 
   <ItemGroup>
